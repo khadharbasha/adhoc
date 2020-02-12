@@ -1,0 +1,19 @@
+Main Service,Service Name,Modified Main Service,Modified Service Name,,,,,
+AGENCY CHARGES,Agency Fee,AGENCY CHARGES,AGENCY FEE,,agency charges,agency fee,agency charges,agency fee
+AGENCY CHARGES,AGENTS TRANSPORT,AGENCY CHARGES,AGENTS TRANSPORT,,agency charges,agents transport,agency charges,agents transport
+AGENCY CHARGES,Other Agency Expenses,AGENCY CHARGES,OTHER AGENCY EXPENSES,,agency charges,other agency expenses,agency charges,other agency expenses
+AGENCY CHARGES,PROCESSING FEE,AGENCY CHARGES,PROCESSING FEE,,agency charges,processing fee,agency charges,processing fee
+Agency Fee,Agency Fee,AGENCY CHARGES,AGENCY FEE,,agency fee,agency fee,agency charges,agency fee
+Agency Fee,Other Agency Expenses,AGENCY CHARGES,OTHER AGENCY EXPENSES,,agency fee,other agency expenses,agency charges,other agency expenses
+Agency Fee,Processing/Hub Fee,AGENCY CHARGES,PROCESSING FEE,,agency fee,processing/hub fee,agency charges,processing fee
+Charter Expenses,Agency Fee - Recoverable,AGENCY CHARGES,AGENCY FEE,,charter expenses,agency fee - recoverable,agency charges,agency fee
+Charter Expenses,Canal Dues - Recoverable,PORT CHARGES,CANAL DUES,,charter expenses,canal dues - recoverable,port charges,canal dues
+Charter Expenses,Custom Dues - Recoverable,PORT CHARGES,CUSTOM DUES,,charter expenses,custom dues - recoverable,port charges,custom dues
+Charter Expenses,Harbour Dues - Recoverable,PORT CHARGES,HARBOUR DUES / PORT DUES,,charter expenses,harbour dues - recoverable,port charges,harbour dues / port dues
+Charter Expenses,Launch Hire for Agent - Recoverable,PORT CHARGES,LAUNCH,,charter expenses,launch hire for agent - recoverable,port charges,launch
+Charter Expenses,Miscellaneous (Charterers Expenses),PORT CHARGES,OTHER PORT EXPENSES,,charter expenses,miscellaneous (charterers expenses),port charges,other port expenses
+Charter Expenses,Mooring - Recoverable,PORT CHARGES,MOORING / UNMOORING,,charter expenses,mooring - recoverable,port charges,mooring / unmooring
+Charter Expenses,Other Port Charges - Recoverable,OTHER PORT CHARGES,OTHER PORT EXPENSES,,charter expenses,other port charges - recoverable,other port charges,other port expenses
+Charter Expenses,Pilotage - Recoverable,PORT CHARGES,PILOTAGE,,charter expenses,pilotage - recoverable,port charges,pilotage
+Charter Expenses,Towage - Recoverable,PORT CHARGES,TOWAGE,,charter expenses,towage - recoverable,port charges,towage
+Charter Expenses,Wharfage - Recoverable,PORT CHARGES,WHARFAGE,,charter expenses,wharfage - recoverable,port charges,wharfage
